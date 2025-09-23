@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solandmedotru
-- 👀 I’m interested in kotlin, android development
-- 🌱 I’m currently learning Android Compose
+- 👀 I’m interested in kotlin, android development, ML
+- 🌱 I’m currently learning all new about Android
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me ...
 
